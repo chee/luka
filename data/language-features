@@ -1,0 +1,25 @@
+default parameters
+template literals
+destructuring assignment
+arrow functions
+promises
+block-scoped variable declarations
+classes
+modules
+async/await
+decorators
+the exponent operator
+String.prototype.padStart
+symbols
+object spread
+observables
+Object.values
+generators
+getters and setters
+WeakMap
+proxies
+dynamic import
+pattern matching
+partial application
+closures
+hoisting
