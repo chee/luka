@@ -1,6 +1,6 @@
 {
   "name": "luka",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "generate good advice for building future-proof web applications",
   "main": "index.js",
   "scripts": {
